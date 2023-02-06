@@ -5,7 +5,7 @@ When using the Unifi controller, there is no way to see a list of all the device
 address without having to go site by site. This script allows you to login to your Unifi portal and will automatically generate a .txt file with all the MAC
 addresses listed by site.
 
-Included is a .exe file which can just be run if you don't want to install Python and run the script yourself. Right-click the .exe and choose to "save the link content as..." to download it.
+Included is a .exe file which can just be run if you don't want to install Python and run the script yourself.
 
 Text file will be created in the same directory as the .exe or .py file.
 
