@@ -8,3 +8,5 @@ addresses listed by site.
 Included is a .exe file which can just be run if you don't want to install Python and run the script yourself. 
 
 Text file will be created in the same directory as the .exe or .py file.
+
+Thanks to https://github.com/DataKnox who created the script that this is based on. The original script is here: https://github.com/DataKnox/CodeSamples/blob/master/Python/Networking/Ubiquiti/ubnt.py
