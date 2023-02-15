@@ -10,3 +10,5 @@ Included is a .exe file which can just be run if you don't want to install Pytho
 Text file will be created in the same directory as the .exe or .py file.
 
 Thanks to https://github.com/DataKnox who created the script that this is based on. The original script is here: https://github.com/DataKnox/CodeSamples/blob/master/Python/Networking/Ubiquiti/ubnt.py
+
+*Note: I make no claims or guarantees for this code. It was created to solve a problem for myself and I am sharing it so others can use it if they'd like to, however use it at your own risk.
